@@ -1,0 +1,5 @@
+outs:
+- md5: a4631dd56b5b8ff6e6ec8fe177d22cc0
+  size: 1280
+  hash: md5
+  path: selected_telegram_data.csv

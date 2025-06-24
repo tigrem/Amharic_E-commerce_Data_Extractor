@@ -1,0 +1,4 @@
+[core]
+    remote = localstorage
+['remote "localstorage"']
+    url = D:\10academy\week4\Amharic_E-commerce_Data_Extractor\storage
