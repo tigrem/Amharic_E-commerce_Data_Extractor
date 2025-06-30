@@ -33,3 +33,7 @@ Each token (word) is placed on a new line, followed by its corresponding entity 
 * **B-PRICE**: Beginning of a price entity.
 * **I-PRICE**: Inside a price entity.
 * **O**: Outside of any defined entity.
+### Task 3: Fine Tune NER Model 
+  **Objective: Fine-Tune a Named Entity Recognition (NER) model to extract key entities (e.g., products, prices, and location) from Amharic Telegram messages.
+### Task 4: Model Comparison & Selection
+  **Objective:Compare different models and select the best-performing one for the entity extraction task.
